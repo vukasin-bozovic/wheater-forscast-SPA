@@ -1,0 +1,1 @@
+weatherForecast.service('cityService', function(){    this.name = "New York";});
